@@ -1,0 +1,31 @@
+_repo: Narrative-of-the-Most-Extraordinary-and-Distressing-Shipwreck-of-the-Whale-ship-Essex-of-Nant__61931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chase, Owen
+    birthdate: 1797
+    deathdate: 1869
+    gutenberg_agent_id: '51683'
+    url: http://www.gutenberg.org/2009/agents/51683
+    wikipedia: https://en.wikipedia.org/wiki/Owen_Chase
+description: ''
+gutenberg_issued: '2020-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwreck survival -- Pacific Ocean'
+- !lcc 'G'
+- !lcsh 'Shipwrecks -- Pacific Ocean'
+- !lcsh 'Essex (Whaleship)'
+- GITenberg
+title: "Narrative of the Most Extraordinary and Distressing Shipwreck of the Whale-ship\
+  \ Essex, of Nantucket;\r\nWhich Was Attacked and Finally Destroyed by a Large Spermaceti-whale,\
+  \ in the Pacific Ocean; With an Account of the Unparalleled Sufferings of the Captain\
+  \ and Crew During a Space of Ninety-three Days at Sea, in Open Boats in the Years\
+  \ 1819 & 1820."
+url: http://www.gutenberg.org/ebooks/61931
